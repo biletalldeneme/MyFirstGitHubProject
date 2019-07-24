@@ -25,6 +25,9 @@ namespace MyFirstGitHubProject
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show(Carp(1, 4).ToString());
+            MessageBox.Show(Carp(1, 4).ToString());
+            MessageBox.Show(Carp(1, 4).ToString());
+            MessageBox.Show(Carp(1, 4).ToString());
         }
 
         private int Carp(int sayi1, int sayi2)
